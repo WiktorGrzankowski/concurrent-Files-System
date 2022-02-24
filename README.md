@@ -13,3 +13,4 @@ It is a project made for my university course on concurrent programming.
 I was given code for err.h/.c, HashMap.h/.c and path_utils.h/.c, 
 whereas my work consisted of implementing Tree.h/.c, which are
 the core files in the project.
+In order to run the program go to build, then cmake .., make and ./main.
